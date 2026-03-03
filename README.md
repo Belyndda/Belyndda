@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Belyndda
-- 👀 I’m interested in Game development, and UX design.
+- 👀 I’m interested in Software Engineering, Game development, and UX design.
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on projects that are 
 - 📫 How to reach me ...
