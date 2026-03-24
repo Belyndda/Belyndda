@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Belyndda
 - 👀 I’m interested in Software Engineering, Game development, and UX design.
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on projects that are 
-- 📫 How to reach me ...
+- 🌱 I’m currently learning SQL
+- 💞️ I’m looking to collaborate on projects that are innovative.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like to make beats on Logic 
 
