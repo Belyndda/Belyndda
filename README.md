@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-- 👋 Hi, I’m Belynda<br>- 👀 I’m interested in Software Engineering, Game development, UX design + 3D Rendering, Full-Stack Dev<br>- 🌱 I’m currently learning SQL<br>- 💞️ I’m looking to collaborate on projects that are innovative and creative.<br>- ⚡ Fun fact: I like to product music on Logic.
+- 👋 Hi, I’m Belynda<br>- 👀 I’m interested in Software Engineering, Game development, UX design + 3D Rendering, Full-Stack Dev<br>- 🌱 I’m currently learning SQL<br>- 💞️ I’m looking to collaborate on projects that are innovative and creative.<br>- ⚡ Fun fact: I like to produce music on Logic.
 
 
 # 💻 Tech Stack:
